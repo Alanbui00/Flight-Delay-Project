@@ -42,13 +42,13 @@ The flights dataset covers 2015 U.S. domestic flights and contains ~5.8 million 
 
 ## Project Structure
  
-```
-Flight_Delay_Project.ipynb   # Main analysis notebook
-flights.csv
-airlines.csv
-airports.csv
-README.md
-```
+
+- Flight_Delay_Project.ipynb   - Main analysis notebook
+- flights.csv                    - [Link for dataset](https://www.kaggle.com/datasets/usdot/flight-delays) 
+- airlines.csv                   - [Link for dataset](https://www.kaggle.com/datasets/usdot/flight-delays) 
+- airports.csv                   - [Link for dataset](https://www.kaggle.com/datasets/usdot/flight-delays) 
+- README.md
+
 
 ## Methodology
  
@@ -86,12 +86,13 @@ Five analyses are performed:
 ## How to Run
  
 1. Clone or download this repository.
-2. Place `flights.csv`, `airlines.csv`, and `airports.csv` in the same directory as the notebook.
-3. Install dependencies:
+2. Get dataset [Link](https://www.kaggle.com/datasets/usdot/flight-delays) 
+3. Place `flights.csv`, `airlines.csv`, and `airports.csv` in the same directory as the notebook.
+4. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-4. Open and run `Flight_Delay_Project.ipynb` top to bottom in Jupyter Notebook or JupyterLab.
+5. Open and run `Flight_Delay_Project.ipynb` top to bottom in Jupyter Notebook or JupyterLab.
  
 ---
  
