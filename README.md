@@ -89,7 +89,7 @@ An interactive dashboard was created in Tableau to explore delay patterns across
 
 [![View Tableau Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/alan.bui/viz/AirDelay_17757563027640/Dashboard1)
 
-![Dashboard Preview](Flight.png)
+![Dashboard Preview](Flight-delay-dashboard.png)
 
 > Includes:
 > - Delay rates by airline
