@@ -83,6 +83,22 @@ Five analyses are performed:
  
 ---
 
+## Tableau Dashboard
+
+An interactive dashboard was created in Tableau to explore delay patterns across airlines, airports, and time.
+
+[![View Tableau Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/alan.bui/viz/AirDelay_17757563027640/Dashboard1)
+
+![Dashboard Preview](Flight.png)
+
+> Includes:
+> - Delay rates by airline
+> - Airport delay rankings
+> - Monthly trends and seasonality
+> - Delay causes breakdown
+
+---
+
 ## How to Run
  
 1. Clone or download this repository.
